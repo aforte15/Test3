@@ -15,7 +15,7 @@ cache:
   directories:
     - $HOME/.m2
 
-script: mvn -q install -P examples
+
 
 jdk:
 - openjdk7
