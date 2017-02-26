@@ -9,8 +9,7 @@ after_success:
 
 deploy:
   provider: s3
-  access_key_id: 
-  secret_access_key: 
-  bucket: testsiteawf
+  access_key_id: AKIAIGLRLQS6G23SCN2Q
+  secret_access_key: GnEPUIa164mjFzoMwuow+gH55XHBnO3uNmuVHF69
+  bucket: awf-example.com
   local-dir: /git_tst/index.html
-  region: us-west-2
