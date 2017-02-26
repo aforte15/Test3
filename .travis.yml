@@ -12,5 +12,5 @@ deploy:
   access_key_id: AKIAIGLRLQS6G23SCN2Q
   secret_access_key: GnEPUIa164mjFzoMwuow+gH55XHBnO3uNmuVHF69
   bucket: awf-example.com
-  local-dir: git_tst/index.html
+  local-dir: git_tst
   skip_cleanup: true
