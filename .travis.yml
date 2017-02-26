@@ -11,6 +11,6 @@ deploy:
   provider: s3
   access_key_id: AKIAJH55TNIOGLU5OH6Q #populate with your own AWS access key
   secret_access_key: LO2P0t/LDnJq9sj1Vgt1vQ8sHv5Z4+ykGSiUlQBD #populate with your own AWS secret key
-  bucket: aws-website-test-lasjl
+  bucket: testsiteawf
   local-dir: /git_tst/index.html
   region: us-west-2
