@@ -13,4 +13,5 @@ deploy:
   secret_access_key: GnEPUIa164mjFzoMwuow+gH55XHBnO3uNmuVHF69
   bucket: awf-example.com
   local-dir: git_tst
+  region: us-west-2
   skip_cleanup: true
